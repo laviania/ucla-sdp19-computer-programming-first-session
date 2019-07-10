@@ -1,0 +1,77 @@
+body {
+    background-color: rgb(181, 246, 255);
+    margin: 0; 
+    padding: 0;
+    font-family: 'Roboto', sans-serif;
+    
+}
+
+nav {
+    background-color: darkcyan;
+    padding: 9px;
+    position: fixed;
+    width: 100%;
+}
+
+nav a {
+    text-decoration: none;
+    padding: 10px 15px;
+    font-size: 1em;
+    color: aliceblue;
+    
+}
+
+header {
+    padding-top: 38px;
+    background-image: url("https://media-cdn.tripadvisor.com/media/photo-s/04/5b/8a/26/universal-citywalk.jpg");
+    background-size: cover;
+    background-position: bottom;
+     }
+
+.slide {
+         height: 75vh;
+         background-color: pink;
+         border: 1px solid #ffffff;
+         margin: 10px;
+         align-content: center;
+         justify-content: center;
+         display: flex;
+         
+          
+     }
+
+
+
+div h1 {
+    color: blue;
+    font-size: 2em;
+}
+
+#about {
+    background-color: lavender;
+}
+
+
+#my-profile-pic {
+    background-image: url("https://images-na.ssl-images-amazon.com/images/I/41mjUqKBxPL.jpg");
+    height: 100%;
+    width: 40%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+
+#my-profile-details {
+    height: 100%;
+    width: 40%;
+}
+
+header h1 {
+    color: white;
+    font-family: 'Rubik Mono One', sans-serif;
+}
+
+
+h2 {
+    background-color: rgb(76, 15, 156)
+}
